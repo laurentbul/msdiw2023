@@ -172,7 +172,7 @@ SELECT count(salaire) AS "Nombre de salaire", count(tauxcom) AS "Nombre de commi
 
 /* INSERT */
 INSERT into employe(noemp, nom, prenom, dateemb, nosup, titre, nodep, salaire, tauxcom)
-VALUES(26, 'Leo', 'Jabelin', '2022-04-11 00:00:00', '7', 'représentant', '50', 25000, 10),
+VALUES(26, 'laurent', 'tasgin', '2023-04-11 00:00:00', '7', 'représentant', '50', 25000, 10),
 (27, 'George', 'Cliche', '2018-11-25 00:00:00', '4', 'représentant', '45', 18000, 5),
 (28, 'Soren', 'Charté', '2005-01-23 00:00:00', '8', 'secrétaire', '41', 51000, 15);
 
